@@ -1,2 +1,2 @@
 # Statistical-Explorations
-Files containing python code and results of various statistical analysis.
+This repository will contain references to perform statistical calculations and produce visual representations.
